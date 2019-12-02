@@ -1,0 +1,4 @@
+name = "AOC"
+uuid = "71adf880-1499-11ea-0552-23151a17734c"
+authors = ["OTDE <mail@sethchapman.com>"]
+version = "0.1.0"
